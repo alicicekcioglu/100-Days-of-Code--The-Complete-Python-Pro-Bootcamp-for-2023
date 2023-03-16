@@ -1,5 +1,0 @@
-# List and Comprehensions
-
-
-
-
